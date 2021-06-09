@@ -16,6 +16,6 @@ Install the project's development and runtime requirements:
 `pip install -r requirements.txt`
 run arkanoid.py and enjoy! `python arkanoid.py`
 
-![screen shots of the game](images(/pic1.jpg)\
-![screen shots of the game](images(/pic2.jpg)\
-![screen shots of the game](images(/pic3.jpg)
+![screen shots of the game](images(pic1.JPG)\
+![screen shots of the game](images(pic2.JPG)\
+![screen shots of the game](images(pic3.JPG)
