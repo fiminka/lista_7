@@ -15,3 +15,6 @@ Clone the template project:
 Install the project's development and runtime requirements: 
 `pip install -r requirements.txt`
 run arkanoid.py and enjoy! `python arkanoid.py`
+
+![screen shots of the game]
+(images(pic1.jpg)
