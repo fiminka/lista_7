@@ -9,7 +9,7 @@ pygame - module that enables games creation\
 pygame-gfxdraw - pygame module for drawing shapes
 
 ### How to run this app?
-Clone the template project, replacing my-project with the name of the project you are creating: 
+Clone the template project: 
 `git clone https://github.com/fiminka/lista_7 ` 
 `cd list_7 `
 Install the project's development and runtime requirements: 
