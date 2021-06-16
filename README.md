@@ -11,7 +11,7 @@ pygame-gfxdraw - pygame module for drawing shapes
 ### How to run this app?
 Clone the template project: 
 `git clone https://github.com/fiminka/lista_7 ` 
-`cd list_7 `
+`cd lista_7 `
 Install the project's development and runtime requirements: 
 `pip install -r requirements.txt`
 run arkanoid.py and enjoy! `python arkanoid.py`
