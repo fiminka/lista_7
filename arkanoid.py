@@ -114,7 +114,7 @@ def collision():
                 new_highest_score()
                 window.fill(BLACK)
                 write("YOU WIN!", 150, 200, color=GREEN)
-                write("choose another game or come back to main menu by pressing m")
+                write("choose another game or come back to main menu by pressing m", 150, 550)
                 ball.y = 300
                 ball.x = 100
                 if game == 1:
@@ -593,7 +593,7 @@ pygame.mixer.set_num_channels(32)
 hitbar = pygame.mixer.Sound('sound_effects_paddle_hit.wav')
 hitbrick = pygame.mixer.Sound('sound_effects_brick.wav')
 win = pygame.mixer.Sound('sound_effects_level_complete.wav')
-intro = pygame.mixer.Sound('sounds_intro.wav')
+intro = pygame.mixer.Sound('music_menu.ogg')
 
 
 window = pygame.display.set_mode((600, 600))
